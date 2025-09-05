@@ -17,6 +17,8 @@ public class Main {
                 .map(p-> new Pessoa(p.getNome(), p.getIdade(), p.getSalario() * 1.1))
 
 
+        System.out.println("Fera !!");
+
 
 
         for (Pessoa aux :agenda){
